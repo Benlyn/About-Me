@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Benlyn
+- 👋 Hi, I’m Benlyn Serrao
 - 🌱 I’m currently learning FrontEnd Development
 - 📫 Reach out to me <a href='benlynserrao@gmail.com'> Here </a>
