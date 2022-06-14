@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Benlyn
-- 🌱 I’m currently learning Frontend development
 - 📫 Reach out to me <a href=" benlynserrao@gmail.com"> HERE </a>
 
 
